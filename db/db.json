@@ -4,19 +4,34 @@
       "id": 0,
       "companyName": "Acme",
       "email": "acme@mail.com",
-      "address": "house #300, road #10, sparta"
+      "address": "house #300, road #10, sparta",
+      "mainBgColor": "",
+      "headerBgColor": "",
+      "headerTextColor": "",
+      "headerImage": "",
+      "footerImage": ""
     },
     {
       "companyName": "Test Company",
       "email": "test.company@gmail.com",
       "address": "shyamoli, dhaka",
-      "id": 1
+      "id": 1,
+      "mainBgColor": "",
+      "headerBgColor": "",
+      "headerTextColor": "",
+      "headerImage": "",
+      "footerImage": ""
     },
     {
       "companyName": "Good Company",
       "email": "random.company@gmail.com",
       "address": "mirpur, dhaka",
-      "id": 2
+      "id": 2,
+      "mainBgColor": "",
+      "headerBgColor": "",
+      "headerTextColor": "",
+      "headerImage": "",
+      "footerImage": ""
     }
   ]
 }
