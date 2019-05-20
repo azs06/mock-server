@@ -7,12 +7,13 @@ const cors = require('cors');
 
 
 
-const server = express();
+const server = jsonServer.create();
 const router = jsonServer.router('./db/db.json')
 const userdb = JSON.parse(fs.readFileSync('./db/users.json', 'UTF-8'))
 
 server.use(cors());
 server.use(bodyParser.json());
+server.use(bodyParser.urlencoded({extended: true}))
 server.use(jsonServer.defaults());
 
 const SECRET_KEY = '123456789'

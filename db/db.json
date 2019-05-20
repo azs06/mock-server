@@ -5,33 +5,33 @@
       "companyName": "Acme",
       "email": "acme@mail.com",
       "address": "house #300, road #10, sparta",
-      "mainBgColor": "",
-      "headerBgColor": "",
-      "headerTextColor": "",
-      "headerImage": "",
-      "footerImage": ""
+      "mainBgColor": "#fff",
+      "headerBgColor": "#000",
+      "headerTextColor": "#fff",
+      "headerImage": "https://via.placeholder.com/350x150",
+      "footerImage": "https://via.placeholder.com/1086x768"
     },
     {
       "companyName": "Test Company",
       "email": "test.company@gmail.com",
       "address": "shyamoli, dhaka",
       "id": 1,
-      "mainBgColor": "",
-      "headerBgColor": "",
-      "headerTextColor": "",
-      "headerImage": "",
-      "footerImage": ""
+      "mainBgColor": "#db0a5b",
+      "headerBgColor": "#f62459",
+      "headerTextColor": "#f1e7fe",
+      "headerImage": "https://via.placeholder.com/350x150",
+      "footerImage": "https://via.placeholder.com/1086x768"
     },
     {
       "companyName": "Good Company",
       "email": "random.company@gmail.com",
       "address": "mirpur, dhaka",
       "id": 2,
-      "mainBgColor": "",
-      "headerBgColor": "",
-      "headerTextColor": "",
-      "headerImage": "",
-      "footerImage": ""
+      "mainBgColor": "#013243",
+      "headerBgColor": "#34495e",
+      "headerTextColor": "#fff",
+      "headerImage": "https://via.placeholder.com/350x150",
+      "footerImage": "https://via.placeholder.com/1086x768"
     }
   ]
 }
