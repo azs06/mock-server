@@ -34,24 +34,30 @@
       "footerImage": "https://via.placeholder.com/1086x768"
     }
   ],
-  "properties":[
+  "properties": [
     {
+      "id": 0,
       "propertyName": "ABC Properties",
       "email": "abc.properties@mail.com",
       "address": "Adabar, Dhaka, Bangladesh",
       "phone": "01710101010"
     },
     {
+      "id": 1,
       "propertyName": "XYZ Properties",
       "email": "xyz.properties@mail.com",
       "address": "Banani, Dhaka, Bangladesh",
       "phone": "01720202020"
     },
     {
+      "id": 2,
       "propertyName": "Ocular Properties",
       "email": "ocular.properties@mail.com",
       "address": "Gulshan, Dhaka, Bangladesh",
       "phone": "01730303030"
+    },
+    {
+      "id": 3
     }
   ]
 }
